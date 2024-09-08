@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Jake
 
+![alt text](JakeGitHub.png)
+
 Welcome to my GitHub profile! I'm a results-driven IT support professional with over 15 years of experience in IT operations and technical support, including 12 years as a K-12 Technology Specialist. My passion lies in enhancing business operations through technology, delivering exceptional support, and driving continuous improvement in dynamic and complex environments.
 
 ## 🚀 About Me
