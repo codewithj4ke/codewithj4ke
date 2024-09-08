@@ -6,10 +6,12 @@ I’m a dedicated tech enthusiast and professional with a passion for turning id
 
 Additionally, I'm currently diving into Python, eager to leverage AI capabilities for optimizing workflows and automating tasks.
 
-## What I'm Working On
-- 💡 Learning Python programming with the assistance of AI and online courses.
-- 💡 Enhancing my Python skills to build impactful solutions in IT and education.
-- 💡 Exploring AI to find innovative ways to improve workflow automation and data analysis.
+## Interests
+
+- *Learning Python*: Expanding my programming skills with the help of AI tools and online courses.
+- Enhancing Python Proficiency: Aiming to build impactful solutions in IT and education.
+- Exploring AI: Seeking innovative approaches to streamline workflow automation and enhance data analysis.
+- Passionate About: AI, Machine Learning, and Robotics.
 
 ## 📈 My GitHub Stats
 
