@@ -22,8 +22,8 @@ I'm currently diving into Python, eager to leverage AI capabilities for optimizi
 
 I love collaborating with like-minded professionals who are passionate about technology, education, and continuous improvement. Feel free to reach out if you’d like to connect or discuss anything tech-related!
 
-- **LinkedIn**: [Your LinkedIn Profile]([#](https://www.linkedin.com/in/jake-helsley-a25697324/)) 
-- **Email**: codewithj4ke
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jake-helsley-a25697324/) 
+- **Email**: codewithj4ke@gmail.com
 
 ## 📈 My GitHub Stats
 
