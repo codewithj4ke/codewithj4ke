@@ -1,5 +1,14 @@
 # 👋 Hello, I'm Jake
 
+                _                 _ _   _         _       _        
+               | |               (_) | | |       (_)     | |       
+   ___ ___   __| | ___  __      ___| |_| |__      _  __ _| | _____ 
+  / __/ _ \ / _` |/ _ \ \ \ /\ / / | __| '_ \    | |/ _` | |/ / _ \
+ | (_| (_) | (_| |  __/  \ V  V /| | |_| | | |   | | (_| |   <  __/
+  \___\___/ \__,_|\___|   \_/\_/ |_|\__|_| |_|   | |\__,_|_|\_\___|
+                                                _/ |               
+                                               |__/                
+
 Welcome to my GitHub profile! I'm a results-driven IT support professional with over 15 years of experience in IT operations and technical support, including 12 years as a K-12 Technology Specialist. My passion lies in enhancing business operations through technology, delivering exceptional support, and driving continuous improvement in dynamic and complex environments.
 
 ## 🚀 About Me
