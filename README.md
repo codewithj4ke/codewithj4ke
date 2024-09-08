@@ -8,10 +8,10 @@ Additionally, I'm currently diving into Python, eager to leverage AI capabilitie
 
 ## Interests
 
-- *Learning Python*: Expanding my programming skills with the help of AI tools and online courses.
-- Enhancing Python Proficiency: Aiming to build impactful solutions in IT and education.
-- Exploring AI: Seeking innovative approaches to streamline workflow automation and enhance data analysis.
-- Passionate About: AI, Machine Learning, and Robotics.
+- **Learning Python**: Expanding my programming skills with the help of AI tools and online courses.
+- **Enhancing Python Proficiency**: Aiming to build impactful solutions in IT and education.
+- **Exploring AI**: Seeking innovative approaches to streamline workflow automation and enhance data analysis.
+- **Passionate About**: AI, Machine Learning, Gaming, Tech
 
 ## 📈 My GitHub Stats
 
