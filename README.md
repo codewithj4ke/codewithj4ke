@@ -2,12 +2,11 @@
 
 ## Oi, World! I'm Jake 👋
 
-## About me
+I’m a dedicated tech enthusiast and professional with a passion for turning ideas into reality through fast, responsive, and accessible experiences. My journey into technology began in the '90s, inspired by my dad, a seasoned programmer, who introduced me to coding and gaming at a young age. My first dive into the tech world was playing Wolfenstein on his PC at age 5, and that moment sparked a lifelong fascination with technology. Since then, my love for the internet has fueled my drive to learn, create, and develop impactful websites and web applications.
 
-- 🖥️ I have extensive experience managing technology across K-12 schools, STEM and Fine Arts academies, Early College High Schools, and district administrative buildings, supporting over 35,000 students and 5,000 staff.
-- 🛠️ I specialize in troubleshooting, maintaining, and repairing a wide range of technology, including computers, mobile devices, interactive devices, printers, projectors, and A/V equipment.
-- 📊 I am highly skilled in Windows, macOS, iOS, and ChromeOS, with a deep interest in AI, exploring how it can optimize workflows, automate tasks, and enhance data-driven decision-making in educational environments.
-- 🤝 I am a proactive team player, passionate about leveraging emerging technologies to foster positive learning environments and improve operational efficiency.
+Additionally, I'm currently diving into Python, eager to leverage AI capabilities for optimizing workflows and automating tasks. I am particularly focused on how AI can improve organizational operations within school districts and education sectors.
+
+# Learning Python programming with the assistance of AI and online courses
 
 ## 🧠 What I'm Learning
 
