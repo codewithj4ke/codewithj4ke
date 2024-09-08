@@ -1,6 +1,8 @@
 ![alt text](JakeGitHub.png)
 
-## Oi, World! I'm Jake
+## Oi, World! I'm Jake 👋
+
+## About me
 
 - 🖥️ I have extensive experience managing technology across K-12 schools, STEM and Fine Arts academies, Early College High Schools, and district administrative buildings, supporting over 35,000 students and 5,000 staff.
 - 🛠️ I specialize in troubleshooting, maintaining, and repairing a wide range of technology, including computers, mobile devices, interactive devices, printers, projectors, and A/V equipment.
