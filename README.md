@@ -1,6 +1,8 @@
 ## I'm Jake 👋
 
-I’m a dedicated tech enthusiast and professional with a passion for turning ideas into reality through fast, responsive, and accessible experiences. My journey into technology began in the '90s, inspired by my dad, a seasoned programmer, who introduced me to coding and gaming at a young age. My first dive into the tech world was playing Wolfenstein on his PC at age 5, and that moment sparked a lifelong fascination with technology. Since then, my love for the internet has fueled my drive to learn, create, and develop.
+Welcome to my GitHub profile! I'm a passionate tech professional who loves bringing ideas to life by creating fast, responsive, and accessible digital experiences. My journey into technology started back in the '90s, thanks to my dad, a seasoned programmer and tech enthusiast, who introduced me to coding and video games when I was just a kid.
+
+I still remember the first time I played Wolfenstein on his PC at age five. That moment lit a spark in me, and I've been hooked ever since. Over the years, my fascination with the internet and all things tech has only grown, pushing me to keep learning, building, and exploring.
 
 ## Interests
 
