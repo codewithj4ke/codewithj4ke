@@ -1,3 +1,5 @@
+<img src="https://github.com/codewithj4ke/codewithj4ke/blob/f27c109a40eccf582d38184bd3bcbe26919f7a8d/GitHubJake.png">
+
 ## I'm Jake 👋
 
 Welcome to my GitHub profile! I'm a passionate tech professional who loves bringing ideas to life by creating fast, responsive, and accessible digital experiences. My journey into technology started back in the '90s, thanks to my dad, a seasoned programmer and tech enthusiast, who introduced me to coding and video games when I was just a kid.
