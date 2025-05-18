@@ -1,4 +1,4 @@
-![alt text](JakeGitHub.png)
+![alt text](GitHubJake.png)
 
 ## I'm Jake 👋
 
